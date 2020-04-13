@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/REPOSITORY/static/css/main.46204891.chunk.css",
+    "main.js": "/REPOSITORY/static/js/main.883a3941.chunk.js",
+    "main.js.map": "/REPOSITORY/static/js/main.883a3941.chunk.js.map",
+    "runtime-main.js": "/REPOSITORY/static/js/runtime-main.8c40392b.js",
+    "runtime-main.js.map": "/REPOSITORY/static/js/runtime-main.8c40392b.js.map",
+    "static/js/2.503063c0.chunk.js": "/REPOSITORY/static/js/2.503063c0.chunk.js",
+    "static/js/2.503063c0.chunk.js.map": "/REPOSITORY/static/js/2.503063c0.chunk.js.map",
+    "index.html": "/REPOSITORY/index.html",
+    "precache-manifest.6b9d0dd2cecb2a6b27cc6455be069ecf.js": "/REPOSITORY/precache-manifest.6b9d0dd2cecb2a6b27cc6455be069ecf.js",
+    "service-worker.js": "/REPOSITORY/service-worker.js",
+    "static/css/main.46204891.chunk.css.map": "/REPOSITORY/static/css/main.46204891.chunk.css.map",
+    "static/js/2.503063c0.chunk.js.LICENSE.txt": "/REPOSITORY/static/js/2.503063c0.chunk.js.LICENSE.txt",
+    "static/media/IMG_2839.JPG": "/REPOSITORY/static/media/IMG_2839.13864717.JPG",
+    "static/media/IMG_2840.JPG": "/REPOSITORY/static/media/IMG_2840.d7ac4579.JPG",
+    "static/media/IMG_2841.JPG": "/REPOSITORY/static/media/IMG_2841.b01dc08f.JPG",
+    "static/media/IMG_2844.JPG": "/REPOSITORY/static/media/IMG_2844.fc183275.JPG",
+    "static/media/IMG_2955.JPG": "/REPOSITORY/static/media/IMG_2955.ca6c72e3.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c40392b.js",
+    "static/js/2.503063c0.chunk.js",
+    "static/css/main.46204891.chunk.css",
+    "static/js/main.883a3941.chunk.js"
+  ]
+}
